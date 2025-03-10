@@ -27,6 +27,22 @@ The dataset includes information about Netflix movies and TV shows such as:
 5. Hyperparameter Tuning
 6. Deployment Considerations
 
+## Project Environments & Links_
+1.Trello: 
+
+## Environment_
+Anaconda & Jupyter notebook
+
+## Presentation_
+PowerPoint Presentation attached to this Repo !
+
+## Highlights_
+
+## Link To Presentation / Visual Summary_
+
+## Project Manager / Contributor:
+Akona Ciko | Akonaciko1@gmail.com | Gibit1 (GitHub username)
+
 ## Installation_
 
 To install the required dependencies, run:
