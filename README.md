@@ -24,8 +24,8 @@ The dataset includes information about Netflix movies and TV shows such as:
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
 4. Model Building & Evaluation
-5. Hyperparameter Tuning
-6. Deployment Considerations
+5. Hyperparameter Tuning & Optimization
+6. Deployment & Conclusions
 
 ## Project Environments & Links_
 1.Trello: 
