@@ -28,7 +28,7 @@ The dataset includes information about Netflix movies and TV shows such as:
 6. Deployment & Conclusions
 
 ## Project Environments & Links_
-1.Trello: 
+1.Trello: https://trello.com/invite/b/67ca9eb0a1ba722f4f94f6fa/ATTI079c3c1ba20805a4bb8705a721ba44cdCB2BC4F1/classification-project-netflix-movies-tv-shows
 
 ## Environment_
 Anaconda & Jupyter notebook
